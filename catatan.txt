@@ -1,4 +1,2 @@
-nama database : db_inventarisk.sql
-
 User : admin
 Pass : admin
